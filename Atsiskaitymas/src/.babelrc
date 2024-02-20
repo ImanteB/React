@@ -1,0 +1,3 @@
+{"presets": ["@babel/preset-ens",
+["@babel/preset-react", {"runtime": "automatic"}]
+]}
