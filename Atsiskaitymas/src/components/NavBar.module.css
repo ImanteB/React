@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .list {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+  }
+  
+  .list a {
+    text-decoration: none;
+    color: rgb(223, 158, 53);
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .list a:hover,
+  .list a.active {
+    color: rgb(52, 41, 29);
+    font-weight: 700;
+  }

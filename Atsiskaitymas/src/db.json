@@ -1,0 +1,7 @@
+{
+    "tutorials": [
+      { "id": 1, "title": "Redux", "description": "Introduction to React", "published": true },
+      { "id": 2, "title": "Put", "description": "Put to React", "published": true },
+      { "id": 3, "title": "Delete", "description": "Delete to React", "published": true }
+    ]
+  }
